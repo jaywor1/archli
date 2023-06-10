@@ -1,0 +1,28 @@
+Jaderná elektrárna:
+	Druhy:
+		-	Štěpná:
+			desc: 
+				-	rozštěpení velkého jádra na malé kousky neutronem
+				- řetězová reakce:
+					na začátku pomalý neutron a uran z toh vzniknou dva produkty a tři rychlé neutrony
+				- moderátor:
+					například voda --> zpomaluje neutrony
+				- první okruh:
+					fialový obrázek wiki
+					contents:
+						- palivové tyče: uran 235
+						- řídící tyče: cadmium, pohlcuje neutrony
+						- reaktor
+				- druhý okruh:
+					vytvoření páry, která roztáčí turbíny a generuje elektřinu
+				- třetí okruh:
+					chladící věže --> kouř z komínů
+						
+			state: ongoing
+		- Fúzní:
+			desc:
+				-	spojení lehkých jader - potřeba hodně energie
+				- přitažlivost a odtažlivost jader
+				- tokamak (vysoká teplota může dojít k fůzní reakci)
+				- lasery
+			state: developing	
