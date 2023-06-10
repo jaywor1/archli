@@ -1,0 +1,4 @@
+prumer 2.46
+median 2
+rozptyl 4.5
+odchylka 2.12

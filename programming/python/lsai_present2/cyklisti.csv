@@ -1,0 +1,1171 @@
+,datum,srazka,zavineni,alkohol,nasledek,prilba,pohlavi
+0,2013/10/16 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,"Ano, obsah alkoholu v krvi od 0,5‰ do 0,8‰",lehké zranění,ano,muž
+1,2014/06/14 00:00:00+00,srážka s chodcem,chodcem,Ne,lehké zranění,ne,muž
+2,2014/08/13 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+3,2014/08/29 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+4,2015/02/02 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+5,2015/04/15 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",bez zraněn,ne,muž
+6,2015/04/15 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,žena
+7,2015/07/16 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+8,2016/06/08 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ano,muž
+9,2016/06/12 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",lehké zranění,ne,muž
+10,2017/08/09 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ne,muž
+11,2019/06/07 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+12,2019/07/12 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+13,2020/08/29 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",lehké zranění,ne,muž
+14,2010/05/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ne,žena
+15,2010/07/23 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Nezjišťován,těžké zranění,ne,muž
+16,2010/08/05 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+17,2012/07/20 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+18,2012/10/04 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+19,2013/05/30 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,bez zraněn,ano,muž
+20,2013/07/21 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ano,muž
+21,2013/07/21 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,bez zraněn,ne,muž
+22,2014/06/16 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+23,2014/07/07 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,bez zraněn,ano,muž
+24,2014/08/29 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+25,2015/04/10 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,žena
+26,2015/05/16 00:00:00+00,srážka s pevnou překážkou,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+27,2016/04/29 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+28,2016/09/08 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+29,2017/03/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+30,2017/05/14 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+31,2017/05/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+32,2017/06/20 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+33,2017/06/24 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+34,2017/06/25 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+35,2017/07/18 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+36,2017/10/28 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+37,2017/11/11 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,bez zraněn,ano,muž
+38,2017/12/22 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Ne,těžké zranění,ne,žena
+39,2018/05/28 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+40,2018/06/04 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+41,2018/08/06 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+42,2018/09/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,chlapec (do 15 let)
+43,2019/03/03 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+44,2019/04/26 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,těžké zranění,ano,muž
+45,2019/04/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+46,2019/06/19 00:00:00+00,srážka s chodcem,chodcem,Ne,bez zraněn,ano,muž
+47,2019/06/30 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ano,žena
+48,2019/07/16 00:00:00+00,srážka s pevnou překážkou,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+49,2019/09/26 00:00:00+00,srážka s pevnou překážkou,řidičem nemotorového vozidla,Ne,bez zraněn,ne,muž
+50,2020/02/14 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+51,2020/07/10 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+52,2020/07/28 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,bez zraněn,ne,muž
+53,2020/07/29 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+54,2010/07/05 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+55,2010/10/19 00:00:00+00,srážka s tramvají,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+56,2011/06/12 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+57,2011/09/02 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,bez zraněn,ano,chlapec (do 15 let)
+58,2012/10/08 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+59,2013/06/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+60,2013/07/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+61,2014/06/27 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Nezjišťován,lehké zranění,ne,muž
+62,2014/09/08 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+63,2014/09/22 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+64,2016/05/21 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,chlapec (do 15 let)
+65,2016/07/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+66,2017/02/09 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+67,2017/11/11 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,5‰ do 0,8‰",lehké zranění,ne,muž
+68,2018/05/01 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Nezjišťován,těžké zranění,ano,muž
+69,2018/05/22 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+70,2018/05/27 00:00:00+00,srážka s pevnou překážkou,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+71,2018/07/13 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+72,2018/07/30 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+73,2018/07/30 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,bez zraněn,ano,muž
+74,2018/08/29 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Pod vlivem drog,těžké zranění,ano,muž
+75,2019/02/19 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+76,2019/05/24 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+77,2019/08/09 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ano,chlapec (do 15 let)
+78,2019/08/28 00:00:00+00,srážka s chodcem,chodcem,Ne,lehké zranění,ne,muž
+79,2019/09/25 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+80,2020/01/15 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",jiné zaviněn,Nezjišťován,lehké zranění,ne,muž
+81,2020/03/28 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+82,2020/04/14 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+83,2020/08/16 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+84,2010/07/08 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+85,2010/08/11 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ano,muž
+86,2010/08/27 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,těžké zranění,ne,muž
+87,2010/11/24 00:00:00+00,jiný druh nehody,technickou závadou vozidla,Nezjišťován,lehké zranění,ano,muž
+88,2011/08/05 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+89,2011/09/21 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+90,2012/07/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+91,2012/07/19 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+92,2012/07/24 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+93,2012/07/24 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+94,2013/05/19 00:00:00+00,srážka s pevnou překážkou,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+95,2013/08/07 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+96,2013/08/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ano,muž
+97,2013/10/22 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+98,2014/04/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ne,žena
+99,2014/06/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,chlapec (do 15 let)
+100,2014/06/25 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ne,muž
+101,2014/07/10 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,bez zraněn,ano,muž
+102,2014/08/22 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,bez zraněn,ano,dívka (do 15 let)
+103,2015/06/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,bez zraněn,ano,muž
+104,2015/06/25 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,těžké zranění,ano,muž
+105,2015/07/02 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,bez zraněn,ano,muž
+106,2015/07/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+107,2015/07/15 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ne,muž
+108,2015/08/22 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+109,2015/08/24 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ne,chlapec (do 15 let)
+110,2016/06/14 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,žena
+111,2017/01/11 00:00:00+00,srážka s chodcem,chodcem,Ne,lehké zranění,ano,muž
+112,2017/01/18 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ano,žena
+113,2017/05/12 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+114,2017/09/07 00:00:00+00,srážka s chodcem,chodcem,Ne,těžké zranění,ano,žena
+115,2017/09/07 00:00:00+00,srážka s chodcem,chodcem,Ne,bez zraněn,ano,dívka (do 15 let)
+116,2017/09/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+117,2018/07/05 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi do 0,24 ‰",těžké zranění,ano,muž
+118,2018/08/11 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,žena
+119,2019/10/13 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+120,2020/01/21 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,bez zraněn,ne,muž
+121,2020/04/27 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+122,2020/05/08 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+123,2020/06/23 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+124,2020/07/01 00:00:00+00,srážka s chodcem,chodcem,Ne,lehké zranění,ano,muž
+125,2020/09/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+126,2020/11/03 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+127,2020/11/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+128,2010/05/22 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+129,2010/08/22 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,žena
+130,2010/11/01 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+131,2011/04/14 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem motorového vozidla,Nezjišťován,bez zraněn,ne,muž
+132,2011/07/22 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,těžké zranění,ne,muž
+133,2011/09/04 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+134,2012/04/30 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+135,2012/05/20 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+136,2012/06/25 00:00:00+00,jiný druh nehody,jiným účastníkem silničního provozu,Ne,lehké zranění,ne,muž
+137,2012/08/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,bez zraněn,ne,chlapec (do 15 let)
+138,2012/09/26 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+139,2012/11/22 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+140,2013/04/20 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ano,žena
+141,2013/05/29 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+142,2013/07/26 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,"Ano, obsah alkoholu v krvi od 0,5‰ do 0,8‰",bez zraněn,ano,muž
+143,2013/07/25 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ano,muž
+144,2013/07/25 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Nezjišťován,bez zraněn,ano,muž
+145,2013/08/19 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ne,chlapec (do 15 let)
+146,2013/12/13 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+147,2014/03/06 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+148,2014/07/17 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+149,2014/09/04 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,bez zraněn,ne,muž
+150,2015/03/02 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ne,muž
+151,2015/05/31 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+152,2015/06/01 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+153,2015/06/11 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+154,2015/06/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+155,2015/09/17 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+156,2016/01/08 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+157,2016/02/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+158,2016/03/06 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,bez zraněn,ano,muž
+159,2016/03/06 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+160,2016/04/04 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+161,2016/05/14 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",těžké zranění,ne,muž
+162,2016/05/21 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+163,2016/06/13 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,muž
+164,2016/12/30 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+165,2017/04/08 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ano,muž
+166,2017/05/18 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+167,2017/06/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+168,2017/07/23 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+169,2017/07/31 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+170,2017/08/26 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+171,2017/11/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,usmrcení,ne,muž
+172,2018/06/16 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+173,2018/07/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,žena
+174,2018/09/16 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+175,2018/10/14 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,žena
+176,2018/10/15 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+177,2018/11/17 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,těžké zranění,ano,chlapec (do 15 let)
+178,2019/05/04 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,těžké zranění,ano,muž
+179,2019/05/04 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,bez zraněn,ne,muž
+180,2019/05/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+181,2019/06/22 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,dívka (do 15 let)
+182,2020/04/09 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+183,2020/04/12 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+184,2020/06/03 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+185,2020/07/10 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,bez zraněn,ne,muž
+186,2020/07/22 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+187,2020/11/17 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+188,2010/03/30 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ano,muž
+189,2010/04/26 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+190,2010/05/07 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem motorového vozidla,Nezjišťován,lehké zranění,ne,muž
+191,2010/05/18 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+192,2010/06/04 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+193,2010/06/13 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,muž
+194,2010/07/28 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ne,muž
+195,2011/04/28 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,bez zraněn,ano,muž
+196,2011/07/14 00:00:00+00,havárie,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+197,2011/07/18 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ano,muž
+198,2011/07/23 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+199,2011/08/12 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+200,2011/10/12 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+201,2012/05/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+202,2012/06/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+203,2012/07/11 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+204,2012/07/24 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+205,2012/11/14 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,bez zraněn,ne,muž
+206,2013/01/04 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+207,2013/01/04 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+208,2013/04/16 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Ne,bez zraněn,ano,dívka (do 15 let)
+209,2013/05/19 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+210,2013/05/22 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+211,2013/07/10 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,těžké zranění,ne,muž
+212,2013/07/29 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+213,2014/05/02 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Nezjišťován,lehké zranění,ne,muž
+214,2014/07/17 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Nezjišťován,bez zraněn,ano,muž
+215,2014/08/13 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,těžké zranění,ano,muž
+216,2014/09/24 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+217,2015/07/13 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,chlapec (do 15 let)
+218,2015/08/02 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+219,2016/02/02 00:00:00+00,srážka s chodcem,chodcem,Ne,bez zraněn,ano,muž
+220,2016/05/05 00:00:00+00,jiný druh nehody,jiné zaviněn,Nezjišťován,lehké zranění,ano,muž
+221,2016/07/19 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+222,2016/09/13 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+223,2016/09/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+224,2017/04/09 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+225,2017/05/20 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+226,2017/06/26 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+227,2017/07/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+228,2017/08/26 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+229,2017/10/11 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+230,2017/11/04 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+231,2017/12/11 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+232,2018/04/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+233,2018/04/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,bez zraněn,ano,žena
+234,2018/05/19 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,bez zraněn,ne,muž
+235,2018/05/19 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,bez zraněn,ne,žena
+236,2018/05/19 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,bez zraněn,ne,žena
+237,2018/05/19 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+238,2018/05/19 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,bez zraněn,ne,žena
+239,2018/05/19 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,bez zraněn,ne,žena
+240,2018/05/19 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+241,2018/05/19 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,bez zraněn,ne,žena
+242,2018/05/19 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,bez zraněn,ne,žena
+243,2018/05/19 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,bez zraněn,ne,žena
+244,2018/05/19 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,bez zraněn,ne,žena
+245,2018/05/19 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+246,2018/05/19 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,bez zraněn,ne,žena
+247,2018/05/19 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,bez zraněn,ne,muž
+248,2018/06/02 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,těžké zranění,ano,žena
+249,2018/06/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+250,2018/06/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",bez zraněn,ne,chlapec (do 15 let)
+251,2018/06/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",bez zraněn,ne,muž
+252,2018/06/29 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+253,2018/07/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,bez zraněn,ano,muž
+254,2018/07/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,bez zraněn,ano,žena
+255,2018/10/06 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+256,2019/04/16 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi do 0,24 ‰",lehké zranění,ano,muž
+257,2019/05/15 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+258,2019/05/21 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+259,2019/06/05 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+260,2019/06/08 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+261,2019/08/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,bez zraněn,ano,dívka (do 15 let)
+262,2019/08/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+263,2019/08/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,bez zraněn,ano,dívka (do 15 let)
+264,2019/09/27 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+265,2019/10/28 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,chlapec (do 15 let)
+266,2020/04/13 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ano,muž
+267,2020/05/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,muž
+268,2020/07/20 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,bez zraněn,ne,muž
+269,2020/08/22 00:00:00+00,srážka s chodcem,chodcem,Ne,lehké zranění,ano,muž
+270,2020/09/04 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+271,2020/10/28 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ne,muž
+272,2010/04/30 00:00:00+00,srážka s domácím zvířetem,"lesní zvěří, domácím zvířectvem",Nezjišťován,bez zraněn,ne,muž
+273,2010/06/17 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+274,2010/08/11 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+275,2010/09/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,dívka (do 15 let)
+276,2011/04/20 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+277,2011/05/05 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+278,2011/05/24 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+279,2011/06/16 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+280,2011/06/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+281,2011/07/11 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem motorového vozidla,Nezjišťován,lehké zranění,ne,žena
+282,2011/09/02 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+283,2011/09/05 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+284,2011/09/30 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,chlapec (do 15 let)
+285,2012/03/18 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+286,2012/04/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+287,2012/04/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,bez zraněn,ne,chlapec (do 15 let)
+288,2012/05/18 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+289,2012/05/18 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+290,2012/07/01 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,těžké zranění,ne,muž
+291,2012/07/17 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,bez zraněn,ne,muž
+292,2012/09/08 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ne,muž
+293,2012/09/18 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+294,2012/10/16 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi do 0,24 ‰",lehké zranění,ne,muž
+295,2012/11/08 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi do 0,24 ‰",lehké zranění,ne,muž
+296,2012/11/10 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+297,2013/05/22 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ano,muž
+298,2013/06/18 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",lehké zranění,ano,žena
+299,2013/06/23 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+300,2013/07/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+301,2013/07/29 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",jiným účastníkem silničního provozu,Ne,lehké zranění,ne,muž
+302,2013/07/30 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+303,2013/08/09 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+304,2013/08/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+305,2013/09/05 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+306,2013/09/11 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+307,2013/11/17 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+308,2013/12/02 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+309,2014/03/03 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+310,2014/01/29 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ne,žena
+311,2014/04/04 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+312,2014/04/18 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",lehké zranění,ano,muž
+313,2014/06/21 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,těžké zranění,ano,žena
+314,2014/06/21 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,dívka (do 15 let)
+315,2014/08/05 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+316,2014/10/09 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+317,2014/10/19 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ano,chlapec (do 15 let)
+318,2015/02/02 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+319,2015/07/24 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+320,2015/07/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+321,2015/08/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+322,2016/02/03 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+323,2016/02/09 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,těžké zranění,ne,muž
+324,2016/04/04 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+325,2016/05/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+326,2016/07/19 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+327,2016/09/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,bez zraněn,ano,muž
+328,2016/09/28 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+329,2016/09/29 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,lehké zranění,ne,chlapec (do 15 let)
+330,2017/03/28 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+331,2017/05/30 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+332,2017/09/07 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+333,2017/12/10 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+334,2018/04/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,těžké zranění,ano,muž
+335,2018/04/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,bez zraněn,ano,žena
+336,2018/04/19 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+337,2018/04/20 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,bez zraněn,ano,muž
+338,2018/06/05 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+339,2018/06/29 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+340,2018/09/07 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi do 0,24 ‰",lehké zranění,ne,žena
+341,2018/11/02 00:00:00+00,srážka s chodcem,chodcem,Ne,lehké zranění,ano,muž
+342,2019/02/17 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+343,2019/04/19 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,těžké zranění,ano,muž
+344,2019/05/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+345,2019/05/30 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+346,2019/06/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+347,2019/07/01 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+348,2019/07/11 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+349,2019/08/18 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+350,2019/08/31 00:00:00+00,srážka s chodcem,chodcem,Ne,bez zraněn,ne,muž
+351,2019/09/04 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ne,muž
+352,2019/09/04 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,bez zraněn,ano,muž
+353,2019/10/02 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+354,2019/10/27 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ano,muž
+355,2020/05/26 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+356,2020/07/22 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+357,2020/08/10 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+358,2020/09/01 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+359,2010/04/29 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+360,2010/05/28 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+361,2010/08/24 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+362,2010/08/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+363,2011/03/04 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+364,2011/03/29 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,muž
+365,2011/03/29 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+366,2011/04/18 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,bez zraněn,ano,muž
+367,2011/05/30 00:00:00+00,jiný druh nehody,chodcem,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ano,muž
+368,2011/06/06 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",bez zraněn,ano,žena
+369,2011/06/06 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",lehké zranění,ano,muž
+370,2011/06/14 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+371,2011/07/16 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ano,dívka (do 15 let)
+372,2011/08/08 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+373,2011/08/31 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+374,2011/09/05 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,chlapec (do 15 let)
+375,2011/09/28 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+376,2011/09/29 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+377,2012/03/21 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+378,2012/04/17 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+379,2012/04/26 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+380,2012/05/01 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,chlapec (do 15 let)
+381,2012/05/06 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",lehké zranění,ano,muž
+382,2012/06/16 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ne,muž
+383,2012/06/17 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ano,muž
+384,2012/08/04 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi do 0,24 ‰",lehké zranění,ano,žena
+385,2012/08/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",bez zraněn,ne,muž
+386,2012/08/28 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",lehké zranění,ano,muž
+387,2012/10/01 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+388,2012/11/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+389,2012/11/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+390,2013/02/20 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Nezjišťován,bez zraněn,ano,muž
+391,2013/04/29 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+392,2013/05/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ne,muž
+393,2013/06/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+394,2013/07/21 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+395,2013/07/30 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+396,2013/08/08 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+397,2013/08/20 00:00:00+00,srážka s chodcem,chodcem,Ne,bez zraněn,ano,muž
+398,2013/10/07 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+399,2013/11/10 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+400,2013/12/06 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+401,2013/12/20 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,muž
+402,2014/06/06 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+403,2014/06/08 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+404,2014/06/12 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+405,2014/06/28 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,chlapec (do 15 let)
+406,2014/07/21 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,těžké zranění,ano,muž
+407,2014/07/24 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,muž
+408,2014/07/26 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,chlapec (do 15 let)
+409,2014/09/22 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+410,2014/10/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+411,2014/10/25 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ne,žena
+412,2015/05/06 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+413,2015/05/13 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ne,muž
+414,2015/05/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,bez zraněn,ano,muž
+415,2015/05/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+416,2015/06/03 00:00:00+00,srážka s chodcem,chodcem,Ne,lehké zranění,ano,žena
+417,2015/06/05 00:00:00+00,srážka s chodcem,chodcem,Ne,bez zraněn,ne,muž
+418,2015/06/16 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+419,2015/06/22 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+420,2015/06/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ano,muž
+421,2015/08/02 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+422,2015/08/24 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,bez zraněn,ano,žena
+423,2015/09/03 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+424,2015/11/16 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,žena
+425,2016/03/05 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",bez zraněn,ne,muž
+426,2016/04/08 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+427,2016/05/09 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ano,žena
+428,2016/08/29 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Nezjišťován,těžké zranění,ano,chlapec (do 15 let)
+429,2016/08/31 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,chlapec (do 15 let)
+430,2016/10/10 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+431,2016/11/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+432,2017/03/23 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+433,2017/03/29 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+434,2017/03/30 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,bez zraněn,ne,muž
+435,2017/05/01 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+436,2017/05/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,muž
+437,2017/06/14 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+438,2017/07/19 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+439,2017/10/18 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+440,2017/10/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+441,2018/03/10 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+442,2018/03/13 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+443,2018/04/10 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+444,2018/04/28 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",těžké zranění,ne,žena
+445,2018/06/18 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+446,2018/08/06 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+447,2018/09/19 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,těžké zranění,ano,žena
+448,2018/10/10 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+449,2018/10/14 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+450,2018/10/20 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+451,2019/03/29 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+452,2019/04/07 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+453,2019/05/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+454,2019/06/06 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+455,2019/06/11 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+456,2019/07/26 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ano,muž
+457,2019/08/08 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",bez zraněn,ne,muž
+458,2019/08/08 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",bez zraněn,ne,muž
+459,2019/08/18 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ano,muž
+460,2019/08/30 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+461,2019/09/17 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+462,2019/10/30 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+463,2019/11/24 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+464,2020/04/10 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+465,2020/05/03 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+466,2020/05/09 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+467,2020/06/03 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,jiným účastníkem silničního provozu,Ne,lehké zranění,ano,muž
+468,2020/06/28 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+469,2020/07/10 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+470,2020/07/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+471,2020/08/06 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+472,2020/08/19 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+473,2020/08/19 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+474,2020/08/29 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,těžké zranění,ano,žena
+475,2020/08/29 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+476,2020/09/04 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Nezjišťován,těžké zranění,ano,muž
+477,2020/09/04 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Nezjišťován,bez zraněn,ne,muž
+478,2020/10/16 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+479,2020/10/21 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,bez zraněn,ano,muž
+480,2020/10/21 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+481,2010/02/24 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+482,2010/04/28 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,chlapec (do 15 let)
+483,2010/05/21 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ano,žena
+484,2010/05/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ne,žena
+485,2010/06/05 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",lehké zranění,ne,muž
+486,2010/06/30 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+487,2010/08/03 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,chlapec (do 15 let)
+488,2010/08/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+489,2010/08/22 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+490,2010/08/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+491,2010/09/13 00:00:00+00,srážka s chodcem,chodcem,Nezjišťován,těžké zranění,ano,muž
+492,2011/04/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+493,2011/05/20 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",těžké zranění,ne,muž
+494,2011/05/24 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+495,2011/06/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+496,2011/07/07 00:00:00+00,srážka s chodcem,chodcem,Ne,bez zraněn,ne,žena
+497,2011/05/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,bez zraněn,ano,muž
+498,2011/08/19 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,muž
+499,2011/08/27 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+500,2011/09/01 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+501,2011/09/19 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+502,2011/09/27 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+503,2011/09/28 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,8‰ do 1,0‰",těžké zranění,ano,muž
+504,2011/10/06 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Nezjišťován,bez zraněn,ne,žena
+505,2012/03/14 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+506,2012/03/22 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",lehké zranění,ne,muž
+507,2012/03/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+508,2012/04/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+509,2012/05/01 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",bez zraněn,ne,muž
+510,2012/05/08 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+511,2012/05/24 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+512,2012/07/01 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+513,2012/08/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+514,2012/08/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+515,2012/08/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,bez zraněn,ano,muž
+516,2012/09/02 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,žena
+517,2012/09/04 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+518,2012/09/16 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+519,2012/09/26 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+520,2012/10/16 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,usmrcení,ne,muž
+521,2012/11/02 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+522,2013/03/07 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,těžké zranění,ne,muž
+523,2013/04/24 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+524,2013/04/30 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,těžké zranění,ano,žena
+525,2013/07/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,žena
+526,2013/07/13 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+527,2013/08/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ne,muž
+528,2013/08/14 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ano,muž
+529,2013/08/18 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+530,2013/08/18 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ano,muž
+531,2013/11/07 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,těžké zranění,ano,muž
+532,2014/02/04 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+533,2014/03/20 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+534,2014/03/20 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+535,2014/03/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+536,2014/04/11 00:00:00+00,havárie,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+537,2014/05/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+538,2014/05/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+539,2014/06/18 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+540,2014/06/18 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,těžké zranění,ano,muž
+541,2014/09/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+542,2014/10/11 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,žena
+543,2015/02/17 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ano,žena
+544,2015/08/05 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ne,žena
+545,2015/08/10 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+546,2015/12/09 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+547,2016/02/02 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",lehké zranění,ano,muž
+548,2016/02/08 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+549,2016/04/20 00:00:00+00,srážka s chodcem,chodcem,Nezjišťován,lehké zranění,ne,muž
+550,2016/04/21 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,žena
+551,2016/05/12 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+552,2016/05/22 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",bez zraněn,ne,muž
+553,2016/05/29 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,těžké zranění,ano,muž
+554,2016/06/28 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+555,2016/08/02 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+556,2016/08/22 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+557,2016/08/26 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+558,2016/08/30 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,těžké zranění,ano,muž
+559,2016/09/17 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,bez zraněn,ano,chlapec (do 15 let)
+560,2017/04/02 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+561,2017/05/09 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ne,muž
+562,2017/05/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+563,2017/06/03 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,chlapec (do 15 let)
+564,2017/06/03 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,chlapec (do 15 let)
+565,2017/06/13 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,žena
+566,2017/07/18 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+567,2017/07/21 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+568,2017/08/06 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+569,2017/08/19 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+570,2017/09/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+571,2017/10/02 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+572,2018/04/20 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+573,2018/05/01 00:00:00+00,srážka s pevnou překážkou,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+574,2018/06/24 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,chlapec (do 15 let)
+575,2018/07/19 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,jiným účastníkem silničního provozu,Ne,lehké zranění,ano,muž
+576,2018/08/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,žena
+577,2018/09/09 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+578,2018/09/18 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ano,chlapec (do 15 let)
+579,2018/09/21 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+580,2019/04/19 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+581,2019/04/21 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Pod vlivem drog,bez zraněn,ano,žena
+582,2019/04/24 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+583,2019/04/24 00:00:00+00,srážka s chodcem,chodcem,Ne,lehké zranění,ano,muž
+584,2019/05/17 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,žena
+585,2019/07/06 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",lehké zranění,ne,muž
+586,2019/07/08 00:00:00+00,havárie,řidičem motorového vozidla,Nezjišťován,lehké zranění,ne,žena
+587,2019/07/24 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+588,2019/06/19 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,bez zraněn,ano,chlapec (do 15 let)
+589,2019/06/19 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ne,muž
+590,2019/08/21 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,muž
+591,2019/08/24 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,bez zraněn,ano,muž
+592,2019/09/06 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,bez zraněn,ano,muž
+593,2019/11/04 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+594,2019/11/23 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ano,muž
+595,2020/01/01 00:00:00+00,srážka s pevnou překážkou,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ano,muž
+596,2020/01/29 00:00:00+00,srážka s chodcem,chodcem,Ne,bez zraněn,ne,muž
+597,2020/03/11 00:00:00+00,srážka s tramvají,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+598,2020/03/16 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+599,2020/04/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+600,2020/04/18 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ano,muž
+601,2020/05/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+602,2020/05/22 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,bez zraněn,ne,muž
+603,2020/06/10 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+604,2020/06/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+605,2020/07/12 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+606,2020/07/29 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+607,2020/08/20 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,muž
+608,2020/08/30 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",lehké zranění,ano,žena
+609,2020/09/08 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+610,2014/11/05 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+611,2010/01/21 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+612,2010/04/28 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ne,muž
+613,2010/06/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",bez zraněn,ne,muž
+614,2010/09/06 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Nezjišťován,bez zraněn,ne,muž
+615,2010/09/16 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+616,2010/10/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+617,2011/04/18 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+618,2011/06/30 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+619,2011/07/06 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+620,2011/09/01 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+621,2011/09/15 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",lehké zranění,ne,muž
+622,2012/05/16 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ano,chlapec (do 15 let)
+623,2012/05/25 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+624,2012/06/20 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,chlapec (do 15 let)
+625,2012/07/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+626,2012/07/14 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",lehké zranění,ano,muž
+627,2012/07/28 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,5‰ do 0,8‰",lehké zranění,ne,muž
+628,2012/08/09 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,těžké zranění,ano,muž
+629,2012/08/11 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ne,muž
+630,2012/08/30 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ne,chlapec (do 15 let)
+631,2012/09/09 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ne,muž
+632,2012/09/17 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+633,2012/12/04 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+634,2012/12/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+635,2013/04/13 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+636,2013/05/20 00:00:00+00,srážka s chodcem,chodcem,Nezjišťován,těžké zranění,ano,muž
+637,2013/07/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+638,2013/08/04 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+639,2013/08/20 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+640,2013/09/19 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+641,2013/12/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+642,2014/02/25 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+643,2014/03/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+644,2014/03/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+645,2014/05/04 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,5‰ do 0,8‰",lehké zranění,ne,muž
+646,2014/06/03 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+647,2014/07/10 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,bez zraněn,ano,muž
+648,2014/08/25 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Ne,lehké zranění,ano,chlapec (do 15 let)
+649,2014/09/16 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",lehké zranění,ne,muž
+650,2014/09/26 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+651,2014/10/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+652,2015/03/17 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,dívka (do 15 let)
+653,2015/08/15 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+654,2015/08/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+655,2015/09/24 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",bez zraněn,ne,muž
+656,2016/04/04 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+657,2016/08/22 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+658,2016/09/04 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+659,2017/05/15 00:00:00+00,srážka s pevnou překážkou,řidičem nemotorového vozidla,Ne,těžké zranění,ne,muž
+660,2017/05/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+661,2017/08/09 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,těžké zranění,ano,muž
+662,2017/08/09 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+663,2017/08/09 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+664,2017/08/16 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,Pod vlivem drog,lehké zranění,ne,muž
+665,2017/08/18 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+666,2017/08/18 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+667,2017/08/08 00:00:00+00,srážka s domácím zvířetem,"lesní zvěří, domácím zvířectvem",Nezjišťován,lehké zranění,ano,žena
+668,2017/08/08 00:00:00+00,srážka s domácím zvířetem,"lesní zvěří, domácím zvířectvem",Nezjišťován,bez zraněn,ano,muž
+669,2017/08/29 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+670,2017/08/30 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+671,2017/10/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+672,2018/04/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,chlapec (do 15 let)
+673,2018/04/24 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,bez zraněn,ano,muž
+674,2018/04/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,dívka (do 15 let)
+675,2018/05/01 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+676,2018/05/10 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+677,2018/06/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,žena
+678,2018/06/28 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,muž
+679,2018/07/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+680,2018/07/13 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+681,2018/07/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,muž
+682,2018/07/29 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+683,2018/08/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,bez zraněn,ne,muž
+684,2018/08/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,těžké zranění,ano,muž
+685,2018/08/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+686,2018/08/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,bez zraněn,ano,muž
+687,2018/08/23 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+688,2018/09/26 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+689,2019/04/01 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,Ne,bez zraněn,ano,muž
+690,2019/04/04 00:00:00+00,srážka s pevnou překážkou,řidičem nemotorového vozidla,Ne,bez zraněn,ano,muž
+691,2019/06/07 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+692,2019/06/10 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",bez zraněn,ne,muž
+693,2019/06/16 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+694,2019/07/05 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+695,2019/07/24 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi do 0,24 ‰",lehké zranění,ano,muž
+696,2019/07/28 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+697,2019/08/05 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+698,2019/08/12 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",lehké zranění,ne,muž
+699,2019/10/04 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+700,2019/10/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+701,2019/11/01 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+702,2020/03/10 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+703,2020/04/18 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ano,muž
+704,2020/06/04 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,těžké zranění,ano,muž
+705,2020/06/23 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+706,2020/07/29 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ano,žena
+707,2020/08/01 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+708,2020/08/28 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+709,2010/07/31 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",lehké zranění,ne,muž
+710,2010/09/19 00:00:00+00,srážka s chodcem,chodcem,Ne,těžké zranění,ano,muž
+711,2011/04/23 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+712,2011/05/24 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",těžké zranění,ne,muž
+713,2011/05/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+714,2011/07/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+715,2011/05/26 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ano,muž
+716,2011/08/03 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ne,chlapec (do 15 let)
+717,2011/10/01 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ano,muž
+718,2011/10/01 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+719,2012/03/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+720,2012/05/09 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+721,2012/05/19 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+722,2012/07/24 00:00:00+00,srážka s chodcem,chodcem,Ne,bez zraněn,ano,muž
+723,2012/08/03 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+724,2012/08/20 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,bez zraněn,ano,žena
+725,2012/09/17 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+726,2012/09/25 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+727,2012/09/26 00:00:00+00,srážka s tramvají,řidičem nemotorového vozidla,Ne,těžké zranění,ne,muž
+728,2013/06/30 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,těžké zranění,ne,muž
+729,2013/07/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+730,2013/08/15 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ano,žena
+731,2014/05/20 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,chlapec (do 15 let)
+732,2014/05/21 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,8‰ do 1,0‰",lehké zranění,ne,muž
+733,2014/05/26 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,Ne,těžké zranění,ano,muž
+734,2014/06/15 00:00:00+00,srážka s pevnou překážkou,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",těžké zranění,ne,muž
+735,2014/06/18 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,Ne,bez zraněn,ano,muž
+736,2014/08/11 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+737,2014/12/08 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",bez zraněn,ne,muž
+738,2015/04/14 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ano,muž
+739,2015/05/11 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+740,2015/06/18 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+741,2015/08/01 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+742,2015/08/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+743,2015/09/10 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+744,2016/02/09 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+745,2016/04/01 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+746,2016/07/22 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ne,muž
+747,2016/08/15 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",lehké zranění,ne,žena
+748,2016/09/20 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ne,muž
+749,2016/10/18 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+750,2017/05/06 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi do 0,24 ‰",bez zraněn,ne,muž
+751,2017/05/30 00:00:00+00,srážka s chodcem,chodcem,"Ano, obsah alkoholu v krvi 1,5‰ a více",bez zraněn,ne,muž
+752,2017/06/04 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+753,2017/06/11 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ano,muž
+754,2017/06/15 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+755,2017/11/24 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+756,2018/04/26 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,těžké zranění,ne,muž
+757,2018/07/08 00:00:00+00,srážka s pevnou překážkou,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+758,2018/08/05 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",lehké zranění,ne,muž
+759,2018/08/14 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+760,2018/10/29 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+761,2019/05/24 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+762,2019/09/24 00:00:00+00,havárie,řidičem motorového vozidla,Ne,lehké zranění,ne,žena
+763,2019/10/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,muž
+764,2020/07/03 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+765,2020/07/06 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+766,2020/07/12 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ano,muž
+767,2020/07/19 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Pod vlivem drog,bez zraněn,ne,muž
+768,2020/08/24 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+769,2020/10/03 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,bez zraněn,ne,muž
+770,2020/10/03 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+771,2012/09/26 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+772,2013/05/08 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ano,žena
+773,2013/05/22 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+774,2015/08/13 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",bez zraněn,ne,muž
+775,2015/09/17 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,těžké zranění,ne,muž
+776,2016/11/27 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+777,2017/11/02 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",lehké zranění,ne,žena
+778,2017/11/10 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",lehké zranění,ano,muž
+779,2018/07/02 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",bez zraněn,ne,muž
+780,2018/07/25 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",lehké zranění,ne,žena
+781,2019/08/03 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+782,2020/08/08 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",lehké zranění,ne,žena
+783,2020/09/20 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,žena
+784,2010/04/08 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi do 0,24 ‰",těžké zranění,ne,muž
+785,2010/04/28 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",lehké zranění,ne,muž
+786,2010/07/20 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+787,2010/08/06 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ne,muž
+788,2011/04/21 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+789,2011/07/07 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ne,muž
+790,2011/09/04 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+791,2012/04/13 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,bez zraněn,ano,žena
+792,2012/05/26 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+793,2012/06/26 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+794,2012/07/15 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",lehké zranění,ne,muž
+795,2012/07/21 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+796,2012/08/04 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ano,muž
+797,2013/05/16 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,8‰ do 1,0‰",bez zraněn,ne,muž
+798,2013/05/16 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,8‰ do 1,0‰",lehké zranění,ne,žena
+799,2013/06/16 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+800,2013/06/16 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+801,2013/07/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+802,2013/07/28 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+803,2013/09/19 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+804,2014/04/19 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+805,2014/06/12 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+806,2014/10/19 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",usmrcení,ano,muž
+807,2015/04/17 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+808,2015/04/27 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+809,2015/06/01 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,Ne,bez zraněn,ne,muž
+810,2015/06/01 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,Ne,bez zraněn,ne,muž
+811,2015/07/02 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+812,2015/07/04 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,8‰ do 1,0‰",lehké zranění,ne,muž
+813,2015/08/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ano,muž
+814,2015/08/24 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,bez zraněn,ne,muž
+815,2015/08/28 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+816,2016/04/23 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem motorového vozidla,Ne,těžké zranění,ne,muž
+817,2016/06/25 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,těžké zranění,ne,muž
+818,2016/07/04 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,dívka (do 15 let)
+819,2016/07/04 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+820,2016/08/02 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+821,2016/08/06 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",těžké zranění,ne,muž
+822,2016/08/06 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",bez zraněn,ano,žena
+823,2016/10/18 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+824,2016/11/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+825,2017/02/20 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+826,2017/06/27 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi do 0,24 ‰",lehké zranění,ne,muž
+827,2017/07/29 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,těžké zranění,ano,muž
+828,2017/08/02 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+829,2018/05/21 00:00:00+00,srážka s chodcem,chodcem,Ne,lehké zranění,ano,muž
+830,2018/06/17 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+831,2018/06/19 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,Nezjišťován,bez zraněn,ne,muž
+832,2018/07/04 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+833,2018/08/03 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+834,2018/08/19 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+835,2018/09/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+836,2019/05/01 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",lehké zranění,ne,muž
+837,2019/07/03 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",těžké zranění,ne,muž
+838,2019/07/11 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+839,2019/08/16 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+840,2019/08/20 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+841,2019/08/31 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+842,2019/09/24 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+843,2019/10/29 00:00:00+00,srážka s chodcem,chodcem,Ne,lehké zranění,ne,muž
+844,2019/12/26 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ano,muž
+845,2020/06/08 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+846,2020/06/08 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+847,2020/06/27 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi do 0,24 ‰",lehké zranění,ano,žena
+848,2020/08/12 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+849,2020/08/21 00:00:00+00,srážka s pevnou překážkou,řidičem nemotorového vozidla,Ne,bez zraněn,ne,muž
+850,2010/09/27 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,Ne,bez zraněn,ne,chlapec (do 15 let)
+851,2010/10/13 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",lehké zranění,ne,muž
+852,2012/01/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+853,2012/05/02 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ne,muž
+854,2012/07/01 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+855,2012/10/06 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,těžké zranění,ne,muž
+856,2012/10/17 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ne,muž
+857,2013/04/26 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+858,2013/05/01 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",bez zraněn,ano,žena
+859,2014/04/02 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+860,2014/04/10 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+861,2014/06/22 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ano,muž
+862,2014/09/04 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ne,muž
+863,2015/04/08 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+864,2015/08/06 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi do 0,24 ‰",bez zraněn,ano,muž
+865,2015/08/17 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,muž
+866,2015/08/20 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,8‰ do 1,0‰",bez zraněn,ne,muž
+867,2015/10/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+868,2016/04/26 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+869,2016/07/26 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",těžké zranění,ne,muž
+870,2016/07/26 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",lehké zranění,ne,muž
+871,2016/07/26 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",bez zraněn,ano,muž
+872,2017/04/15 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+873,2017/06/10 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ano,muž
+874,2017/06/23 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi do 0,24 ‰",těžké zranění,ne,muž
+875,2018/08/02 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",lehké zranění,ano,muž
+876,2019/04/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ano,muž
+877,2019/07/27 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ano,muž
+878,2020/06/11 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+879,2020/10/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+880,2010/07/24 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",lehké zranění,ne,muž
+881,2011/09/29 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",bez zraněn,ne,muž
+882,2012/07/21 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",bez zraněn,ano,muž
+883,2012/07/21 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",lehké zranění,ano,žena
+884,2013/08/17 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Nezjišťován,těžké zranění,ano,žena
+885,2014/06/05 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+886,2014/06/10 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",lehké zranění,ne,muž
+887,2014/08/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",bez zraněn,ne,muž
+888,2014/10/02 00:00:00+00,srážka s pevnou překážkou,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+889,2015/04/10 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+890,2015/06/10 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,8‰ do 1,0‰",lehké zranění,ne,muž
+891,2015/06/18 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+892,2015/08/09 00:00:00+00,srážka s pevnou překážkou,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+893,2016/05/11 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",těžké zranění,ne,muž
+894,2016/06/29 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,žena
+895,2016/07/29 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,5‰ do 0,8‰",lehké zranění,ne,žena
+896,2017/03/27 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+897,2017/06/12 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+898,2018/04/10 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+899,2018/09/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ano,muž
+900,2018/10/26 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",těžké zranění,ne,muž
+901,2019/08/02 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ano,muž
+902,2020/06/01 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+903,2020/07/14 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",lehké zranění,ano,žena
+904,2020/09/11 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",lehké zranění,ne,muž
+905,2020/11/26 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+906,2010/05/13 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,těžké zranění,ano,muž
+907,2010/06/11 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+908,2011/05/21 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,8‰ do 1,0‰",lehké zranění,ne,žena
+909,2011/09/06 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+910,2011/11/18 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",bez zraněn,ne,muž
+911,2012/06/22 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+912,2013/04/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,bez zraněn,ne,muž
+913,2013/04/17 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+914,2013/07/31 00:00:00+00,srážka s pevnou překážkou,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+915,2014/05/28 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,Nezjišťován,bez zraněn,ne,muž
+916,2015/01/10 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+917,2015/07/01 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ano,muž
+918,2015/07/16 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,žena
+919,2018/04/24 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",těžké zranění,ano,muž
+920,2018/07/17 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",lehké zranění,ano,muž
+921,2019/08/25 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",bez zraněn,ne,muž
+922,2020/02/13 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+923,2020/05/18 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+924,2020/07/30 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+925,2017/05/22 00:00:00+00,havárie,řidičem motorového vozidla,Nezjišťován,lehké zranění,ano,muž
+926,2017/06/18 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+927,2019/07/22 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi do 0,24 ‰",lehké zranění,ano,muž
+928,2019/07/31 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,těžké zranění,ano,muž
+929,2013/09/03 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",těžké zranění,ne,muž
+930,2014/07/05 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+931,2016/06/05 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+932,2018/06/22 00:00:00+00,srážka s pevnou překážkou,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,žena
+933,2014/08/03 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,8‰ do 1,0‰",lehké zranění,ne,muž
+934,2014/09/22 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+935,2015/06/26 00:00:00+00,srážka s pevnou překážkou,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",těžké zranění,ano,muž
+936,2015/09/14 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ano,žena
+937,2016/08/19 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+938,2017/08/24 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",bez zraněn,ne,muž
+939,2019/04/19 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,žena
+940,2019/07/03 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,žena
+941,2010/11/08 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+942,2011/06/04 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",lehké zranění,ne,muž
+943,2011/10/14 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+944,2012/06/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ano,muž
+945,2012/06/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+946,2012/06/25 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+947,2012/10/11 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+948,2013/09/23 00:00:00+00,srážka s pevnou překážkou,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+949,2013/10/17 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+950,2014/06/13 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+951,2014/07/20 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 1,0‰ do 1,5‰",lehké zranění,ne,muž
+952,2014/12/01 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+953,2014/12/17 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+954,2015/09/07 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,bez zraněn,ne,muž
+955,2015/11/02 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+956,2016/06/16 00:00:00+00,srážka s chodcem,chodcem,Ne,lehké zranění,ano,muž
+957,2016/11/30 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+958,2017/06/22 00:00:00+00,srážka s pevnou překážkou,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+959,2017/09/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ne,muž
+960,2017/12/19 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+961,2019/03/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+962,2020/02/17 00:00:00+00,srážka s tramvají,řidičem motorového vozidla,Ne,těžké zranění,ne,muž
+963,2020/08/17 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,muž
+964,2020/09/19 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,muž
+965,2020/11/16 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+966,2011/04/28 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+967,2011/07/01 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ne,žena
+968,2011/10/04 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,bez zraněn,ne,muž
+969,2012/04/20 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+970,2012/06/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,žena
+971,2012/07/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ne,žena
+972,2012/07/31 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,těžké zranění,ne,muž
+973,2012/07/31 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,bez zraněn,ano,žena
+974,2012/08/08 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+975,2012/09/19 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+976,2013/04/09 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+977,2013/04/16 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+978,2013/08/02 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Ne,těžké zranění,ne,muž
+979,2013/08/06 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+980,2013/09/16 00:00:00+00,srážka s pevnou překážkou,řidičem nemotorového vozidla,Ne,těžké zranění,ne,muž
+981,2013/10/16 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+982,2014/01/22 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+983,2014/04/02 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,muž
+984,2014/05/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+985,2014/08/11 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+986,2015/05/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+987,2015/06/04 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+988,2015/08/06 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+989,2015/08/10 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,těžké zranění,ano,muž
+990,2015/09/01 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,těžké zranění,ano,muž
+991,2015/10/09 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,žena
+992,2015/11/03 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+993,2016/05/03 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,bez zraněn,ano,muž
+994,2016/06/14 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+995,2016/07/13 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+996,2016/07/19 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,muž
+997,2016/10/17 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+998,2016/12/16 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+999,2017/07/25 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,těžké zranění,ne,muž
+1000,2017/08/01 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+1001,2017/08/16 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ne,muž
+1002,2017/08/16 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ne,muž
+1003,2017/11/03 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+1004,2018/04/17 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+1005,2018/04/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1006,2018/09/06 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1007,2018/10/29 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+1008,2019/05/02 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1009,2019/07/26 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+1010,2019/10/21 00:00:00+00,srážka s pevnou překážkou,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+1011,2020/01/31 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+1012,2020/04/20 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ne,žena
+1013,2020/05/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,žena
+1014,2020/06/16 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+1015,2020/07/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,žena
+1016,2020/08/24 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,5‰ do 0,8‰",lehké zranění,ne,muž
+1017,2020/10/26 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+1018,2011/04/18 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+1019,2011/04/27 00:00:00+00,srážka s chodcem,chodcem,Ne,lehké zranění,ano,muž
+1020,2011/06/29 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1021,2011/06/30 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1022,2011/07/08 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+1023,2011/07/08 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1024,2011/07/18 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,lehké zranění,ano,žena
+1025,2012/03/22 00:00:00+00,jiný druh nehody,jiné zaviněn,Nezjišťován,lehké zranění,ano,muž
+1026,2012/05/23 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+1027,2012/06/27 00:00:00+00,srážka s chodcem,chodcem,Ne,lehké zranění,ano,žena
+1028,2012/07/03 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ne,muž
+1029,2012/09/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+1030,2012/09/13 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ne,muž
+1031,2012/10/05 00:00:00+00,srážka s chodcem,chodcem,Ne,lehké zranění,ano,muž
+1032,2013/04/09 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1033,2013/09/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+1034,2013/10/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+1035,2013/11/06 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+1036,2014/01/20 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,žena
+1037,2014/05/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1038,2014/08/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,žena
+1039,2015/06/01 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,muž
+1040,2015/09/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+1041,2015/11/02 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1042,2016/07/08 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,těžké zranění,ano,muž
+1043,2016/08/08 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+1044,2017/03/22 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+1045,2017/05/09 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+1046,2017/05/25 00:00:00+00,srážka s domácím zvířetem,"lesní zvěří, domácím zvířectvem",Nezjišťován,lehké zranění,ne,muž
+1047,2017/08/01 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,bez zraněn,ne,muž
+1048,2017/10/13 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,chlapec (do 15 let)
+1049,2017/11/14 00:00:00+00,havárie,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1050,2018/03/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ano,muž
+1051,2018/05/28 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,žena
+1052,2018/05/29 00:00:00+00,jiný druh nehody,jiné zaviněn,Nezjišťován,lehké zranění,ne,žena
+1053,2018/08/14 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+1054,2019/05/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+1055,2019/06/06 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1056,2019/06/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+1057,2019/06/25 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,bez zraněn,ne,muž
+1058,2019/07/11 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+1059,2019/07/21 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1060,2019/07/22 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,bez zraněn,ano,muž
+1061,2019/08/21 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1062,2019/11/18 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+1063,2019/12/15 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+1064,2020/03/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+1065,2020/04/21 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1066,2020/05/22 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+1067,2020/06/24 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+1068,2020/07/05 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+1069,2020/07/28 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,těžké zranění,ano,žena
+1070,2020/07/28 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+1071,2020/09/21 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1072,2020/10/29 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+1073,2010/07/14 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1074,2010/07/22 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Nezjišťován,lehké zranění,ne,muž
+1075,2011/05/18 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+1076,2012/06/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+1077,2012/08/04 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,těžké zranění,ano,chlapec (do 15 let)
+1078,2012/08/29 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1079,2012/09/05 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1080,2013/05/27 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,těžké zranění,ne,žena
+1081,2013/07/03 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+1082,2013/07/31 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,žena
+1083,2013/08/09 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,žena
+1084,2013/08/16 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,bez zraněn,ne,muž
+1085,2013/08/16 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+1086,2013/08/29 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1087,2014/05/29 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,těžké zranění,ne,žena
+1088,2014/06/18 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+1089,2014/06/26 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+1090,2014/06/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+1091,2014/12/10 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ne,muž
+1092,2015/05/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+1093,2015/06/16 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+1094,2015/10/14 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1095,2016/04/05 00:00:00+00,srážka s domácím zvířetem,"lesní zvěří, domácím zvířectvem",Nezjišťován,těžké zranění,ano,žena
+1096,2016/04/26 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,žena
+1097,2016/06/29 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+1098,2016/09/19 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,těžké zranění,ne,muž
+1099,2016/12/15 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+1100,2017/05/30 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+1101,2017/08/04 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+1102,2017/08/05 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+1103,2017/08/16 00:00:00+00,havárie,technickou závadou vozidla,Nezjišťován,lehké zranění,ne,muž
+1104,2017/08/23 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+1105,2017/10/09 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,bez zraněn,ano,muž
+1106,2017/11/01 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,bez zraněn,ano,muž
+1107,2018/04/07 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+1108,2018/05/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1109,2018/05/18 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1110,2018/05/24 00:00:00+00,srážka s chodcem,chodcem,Ne,bez zraněn,ano,muž
+1111,2018/09/09 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+1112,2018/10/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+1113,2018/11/11 00:00:00+00,srážka s pevnou překážkou,řidičem nemotorového vozidla,Ne,bez zraněn,ne,muž
+1114,2019/03/18 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+1115,2019/05/09 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+1116,2019/08/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1117,2019/10/08 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi od 0,24‰ do 0,5‰",lehké zranění,ne,muž
+1118,2019/11/27 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+1119,2020/05/20 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1120,2020/06/09 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1121,2020/07/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+1122,2020/09/21 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+1123,2010/07/11 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1124,2010/08/11 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+1125,2011/09/03 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,žena
+1126,2011/09/26 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,bez zraněn,ano,muž
+1127,2012/02/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1128,2012/03/02 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ano,žena
+1129,2012/05/23 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1130,2012/06/17 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Nezjišťován,bez zraněn,ne,chlapec (do 15 let)
+1131,2012/07/27 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,Ne,bez zraněn,ne,muž
+1132,2012/11/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1133,2013/09/03 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+1134,2013/10/01 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,těžké zranění,ne,muž
+1135,2013/11/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1136,2014/02/10 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1137,2014/05/26 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ne,muž
+1138,2014/09/09 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ne,muž
+1139,2014/09/23 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,těžké zranění,ne,muž
+1140,2015/03/01 00:00:00+00,havárie,řidičem nemotorového vozidla,Nezjišťován,těžké zranění,ne,muž
+1141,2015/04/16 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+1142,2015/05/20 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+1143,2015/05/16 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1144,2015/10/05 00:00:00+00,jiný druh nehody,řidičem motorového vozidla,Nezjišťován,lehké zranění,ne,muž
+1145,2016/02/14 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,těžké zranění,ano,žena
+1146,2016/04/08 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+1147,2016/05/07 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Nezjišťován,lehké zranění,ne,žena
+1148,2016/06/02 00:00:00+00,jiný druh nehody,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi 1,5‰ a více",lehké zranění,ne,žena
+1149,2016/09/04 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+1150,2016/10/10 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+1151,2016/12/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,jiným účastníkem silničního provozu,Nezjišťován,těžké zranění,ne,muž
+1152,2017/03/30 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+1153,2017/04/18 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1154,2017/05/13 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+1155,2017/07/09 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+1156,2017/07/12 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1157,2017/08/25 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem nemotorového vozidla,Ne,lehké zranění,ne,muž
+1158,2017/08/30 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1159,2017/08/30 00:00:00+00,havárie,závadou komunikace,Nezjišťován,lehké zranění,ano,muž
+1160,2017/11/06 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+1161,2018/11/06 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+1162,2018/11/17 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
+1163,2019/07/04 00:00:00+00,"srážka s vozidlem zaparkovaným, odstaveným",řidičem nemotorového vozidla,Pod vlivem drog,lehké zranění,ne,muž
+1164,2019/08/27 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ne,muž
+1165,2019/09/05 00:00:00+00,srážka s jedoucím nekolejovým vozidlem,řidičem motorového vozidla,Ne,lehké zranění,ano,muž
+1166,2020/05/30 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ne,žena
+1167,2020/06/02 00:00:00+00,srážka s chodcem,řidičem nemotorového vozidla,Ne,lehké zranění,ano,žena
+1168,2020/08/02 00:00:00+00,havárie,řidičem nemotorového vozidla,"Ano, obsah alkoholu v krvi do 0,24 ‰",lehké zranění,ano,žena
+1169,2020/08/12 00:00:00+00,havárie,řidičem nemotorového vozidla,Ne,lehké zranění,ano,muž
