@@ -1,0 +1,11 @@
+label: gpt
+label-id: 74CA0CA2-E822-4285-9B1A-514CF4A6F060
+device: /dev/sda
+unit: sectors
+first-lba: 34
+last-lba: 488397134
+sector-size: 512
+
+/dev/sda1 : start=        2048, size=       20480, type=21686148-6449-6E6F-744E-656564454649, uuid=08599882-F697-4AC1-AA41-B49688FE150D, name="BIOS Boot Partition"
+/dev/sda2 : start=       22528, size=    16777216, type=0FC63DAF-8483-4772-8E79-3D69D8477DE4, uuid=C2D7D1DD-1DAF-41B3-A155-13222DA2701A, name="Linux Swap"
+/dev/sda3 : start=    16799744, size=   471597056, type=0FC63DAF-8483-4772-8E79-3D69D8477DE4, uuid=F07C27D6-BCC7-49A0-8F06-F88F8CE6F634, name="Archli Filesystem"
