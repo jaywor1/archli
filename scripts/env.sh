@@ -16,3 +16,7 @@ export DISK_FS="${DISK}3"
 
 # PKGS
 export PACSTRAP_PKGS=('linux' 'linux-firmware' 'base' 'base-devel' 'vi' 'vim' 'networkmanager' 'man-pages')
+
+# Config
+export HOSTNAME=$HOSTNAME
+export USER=archli
