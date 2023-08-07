@@ -7,6 +7,7 @@ export BROWN='\033[0;33m'
 export YELLOW='\033[1;33m'
 export CYAN='\033[0;36m'
 export BLUE='\033[0;34m'
+export GREEN='\033[0;32m]'
 
 
 # Disk related
@@ -15,7 +16,7 @@ export SWAP="${DISK}2"
 export DISK_FS="${DISK}3"
 
 # PKGS
-export PACSTRAP_PKGS=('linux' 'linux-firmware' 'base' 'base-devel' 'vi' 'vim' 'networkmanager' 'man-pages')
+export PACSTRAP_PKGS=('linux' 'linux-firmware' 'base' 'base-devel' 'vi' 'vim' 'networkmanager' 'man-pages', 'grub')
 
 # Config
 export HOSTNAME=$HOSTNAME
