@@ -21,7 +21,9 @@ pacstrap /mnt ${PACSTRAP_PKGS[@]} && echo_install "Pacstrap packages"
 genfstab -U /mnt > /mnt/etc/fstab && echo_ok "Generated file system table"
 
 # Copy files
-echo_info "Copying essential files"
-cp -v config/
+echo_info "Copying post_install.sh to root dir"
+cp -v scripts/post_install.sh /mnt/root
+chmod 744 /mnt/root/post_install.sh
+chown root:root /mnt/root/post_install.sh
 
 echo_ok "No errors in disk script"

@@ -1,12 +1,12 @@
 #!/bin/bash
 
-# Setup user
-archchroot "useradd -mG wheel $USER"
-echo "Set password for $USER"
-archchroot "passwd $USER"
-echo_info "User $USER added"
+archchroot 'locale-gen'
 
-archchroot "loacle-gen"
+# Setup user
+archchroot "useradd -mG wheel $IS_USER"
+echo "Set password for $IS_USER"
+archchroot "passwd $IS_USER"
+echo_info "User $IS_USER added"
 
 echo "Set root password"
 archchroot passwd
@@ -17,4 +17,4 @@ archchroot "grub-install --target=i386-pc $DISK"
 archchroot "grub-mkconfig -o /boot/grub/grub.cfg"
 echo_update "Grub updated"
 
-archchroot mkinitcpio -p linux
+archchroot "mkinitcpio -p linux"
