@@ -3,9 +3,6 @@
 # Enable and start NetworkManager
 systemctl enable NetworkManager --now
 
-# Config sshd
-sed -i "s/#PasswordAuthentication yes/PasswordAuthentication no/"
-
 # Enable and start sshd
 systemctl enable sshd --now
 
