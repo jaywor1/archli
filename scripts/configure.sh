@@ -13,10 +13,10 @@ sed -i 's/#en_US\.UTF-8/en_US\.UTF-8/' /mnt/etc/locale.gen && echo_ok "Set defau
 echo "LANG=en_US.UTF-8" > /mnt/etc/locale.conf && echo_config "Configured /mnt/etc/locale.conf"
 
 # /etc/hosts
-echo "Static table lookup for hostanems" > /mnt/etc/hosts
-echo "127.0.0.1		    	localhost" >> /mnt/etc/hosts
+echo "\#Static table lookup for hostanems" > /mnt/etc/hosts
+echo "127.0.0.1		    localhost" >> /mnt/etc/hosts
 echo "::1		        localhost" >> /mnt/etc/hosts
-echo "127.0.1.1		    	${IS_HOSTNAME}.localdomain	    $IS_HOSTNAME" >> /mnt/etc/hosts
+echo "127.0.1.1		    ${IS_HOSTNAME}.localdomain	    $IS_HOSTNAME" >> /mnt/etc/hosts
 
 echo_config "Configured /mnt/etc/hosts"
 
