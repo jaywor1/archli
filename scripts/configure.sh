@@ -27,6 +27,4 @@ sed -i 's/HOOKS=.*/HOOKS=(systemd autodetect modconf kms keyboard keymap console
 
 # Configure sshd
 sed -i "s/#PasswordAuthentication yes/PasswordAuthentication no/" /mnt/etc/ssh/sshd_config && echo_config "Configured sshd"
-mkdir "/mnt/home/$IS_USER/.ssh" && chown "$IS_USER:$IS_USER" "/mnt/home/$IS_USER/.ssh" && chmod 0755 "/mnt/home/$IS_USER/.ssh" && echo_ok "Created .ssh folder"
-echo "$SSH_DEFAULT_KEY" >> "/mnt/home/$IS_USER/.ssh/authorized_keys" && echo_ok "Added default ssh key to access user $IS_USER"
 

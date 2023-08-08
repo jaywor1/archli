@@ -7,6 +7,6 @@ systemctl enable NetworkManager --now
 systemctl enable sshd --now
 
 # Update pacman
-pacman -Syyu
+pacman -Syyu --noconfirm
 
 echo "Run ansible playbook if you have one"
