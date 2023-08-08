@@ -1,3 +1,0 @@
-syntax error - statement that is not valid according to syntax (grammar)
-semantic error - syntactically valid, but does not do what the programmer intended. (division by zero)
-integer overflow - when u

@@ -1,7 +1,0 @@
-import time
-print("Hello W0rld");
-
-while 1:
-	time.sleep(1);
-	print(L);
-

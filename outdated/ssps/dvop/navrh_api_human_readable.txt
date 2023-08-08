@@ -1,1 +1,0 @@
-Ve své závěrečné práci budu dělat api ohledně banek a bankomatů.
