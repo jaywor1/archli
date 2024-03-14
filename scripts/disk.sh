@@ -20,6 +20,10 @@ pacstrap /mnt ${PACSTRAP_PKGS[@]} && echo_install "Pacstrap packages"
 # File Sytstem Table
 genfstab -U /mnt > /mnt/etc/fstab && echo_ok "Generated file system table"
 
+# Auto mount for ssd drive
+echo '# External SSD drive mount' >> /mnt/etc/fstab
+echo 'UUID="8C86-4B0C"	/media		exfat		rw,auto,user	0 2' >> /mnt/etc/fstab
+
 # Copy files
 echo_info "Copying post_install.sh to root dir"
 cp -v scripts/post_install.sh /mnt/root
