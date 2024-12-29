@@ -23,5 +23,5 @@ echo_update "Grub updated"
 archchroot "mkdir /home/${IS_USER}/.ssh"
 archchroot "chown ${IS_USER}:${IS_USER} /home/${IS_USER}/.ssh"
 archchroot "chmod 0755 /home/${IS_USER}/.ssh"
-echo ${SSH_DEFAULT_KEY} >> /mnt/home/${IS_USER}/.ssh/authorized_keys
+echo "${SSH_DEFAULT_KEY}" >> "/mnt/home/${IS_USER}/.ssh/authorized_keys"
 echo_info "SSH setup done"

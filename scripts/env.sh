@@ -13,8 +13,6 @@ export WHITE='\033[1;37m'
 
 # Disk related
 export DISK="/dev/sda"
-export SWAP="${DISK}2"
-export DISK_FS="${DISK}3"
 
 # PKGS
 export PACSTRAP_PKGS=('linux' 'linux-firmware' 'base' 'base-devel' 'vi' 'vim' 'networkmanager' 'man-pages' 'grub' 'openssh' 'ansible' 'git')
