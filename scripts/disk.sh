@@ -2,8 +2,8 @@
 
 
 # Umount all partitions
-umount "$DISK_FS" && echo_info "Unmounted fs partition"
-swapoff "$SWAP" && echo_info "Turn off swap"
+umount -a && echo_info "Unmounted all"
+swapoff -a && echo_info "Turn off swap"
 
 echo_info "Starting gdisk partition on ${DISK}..."
 (
@@ -29,7 +29,7 @@ echo_info "Starting gdisk partition on ${DISK}..."
   echo ''     # First sector
   echo ''     # Last sector
   echo '8300' # Linux filesystem
-) | gdisk "$DISK"
+) | gdisk -f "$DISK"
 
 # Swap
 mkswap "${DISK}2" && echo_ok "Created swap"
